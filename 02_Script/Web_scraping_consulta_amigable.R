@@ -99,7 +99,7 @@
   ## 3.1 Variables de control --------------------------------------------------
   
   url_consulta   <- "https://apps5.mineco.gob.pe/transparencia/Navegador/Navegar.aspx"
-  años_mef        <- c(2022:1999)
+  años_mef        <- c(2022:2010)
   
   ## 3.2. URL de descarga ----------------------------------------------------------
   
@@ -184,8 +184,6 @@
       
     }
   }
-  
-  
   
   ## 3.5. Cerramos conexión --------------------------------------------------------
   
