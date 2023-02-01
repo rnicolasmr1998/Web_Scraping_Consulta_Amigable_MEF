@@ -1,1 +1,2 @@
-# Web Scraping with R
+# *Web Scraping with R*
+Este proyecto utiliza técnicas de web scraping para extraer información de la página de Consulta Amigable del Ministerio de Economía y Finanzas del Perú con el objetivo de analizar el financiamiento que se reciben las instituciones públicas que forman parte del sector educativo. A través de ello, se extraen los datos relevantes y se presentan en un formato fácil de entender para su análisis. Este proyecto es ideal para aquellos interesados en el monitoreo de la inversión en educación y cómo esto afecta el desarrollo del sector. Con esta información, se pueden tomar decisiones informadas sobre cómo mejorar la inversión en educación en el futuro. 💻📊📚   
