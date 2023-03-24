@@ -1,7 +1,7 @@
 
   '*********************************************************************************
   # PROYECTO: 		  WEB SCRAPPING - CONSULTA AMIGABLE (MEF)
-  # TÍTULO:         FINANCIAMIENTO DE UNIVERSIDADES PÚBLICAS (1999-2022)
+  # TÍTULO:         FINANCIAMIENTO DE UNIVERSIDADES PÚBLICAS (2010-2022)
   # AUTOR: 			    RENZO NICOLAS MARROQUIN RUBIO
   # FECHA:				  28/01/2023
   *********************************************************************************'
